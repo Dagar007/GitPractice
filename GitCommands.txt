@@ -1,0 +1,10 @@
+git init
+git add file_name
+git add -u  Adds modified file
+git add -A adds all file. added/deleted
+git status 
+git log
+git diff Head~..Head
+git diff Head~..
+git checkout file_name - reverts the changes to the file
+git reset hard - reset all the pending chnages
